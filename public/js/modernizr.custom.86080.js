@@ -33,4 +33,3 @@ $('#link-contact').on("click", function(){
 })
 
 });
-});
